@@ -1,0 +1,39 @@
+      @charset "UTF-8";
+
+      .p2 {
+        color:steelblue;
+        font-family: "Courier New", Courier, monospace;
+        text-align: center;
+      }
+
+      .c2 {
+        background: lightblue;
+        color: white;
+        font-family: "Gill Sans Extrabold", Helvetica, sans-serif;
+        text-align: center;
+      }
+
+      .a2{
+        color: steelblue;
+        text-decoration: none;
+      }
+
+      .l2{
+        color: lightblue;
+      }
+
+      #i2{
+        width: 200px;
+        height: 200px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto
+      }
+
+      #i3{
+        width: 350px;
+        height: 350px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto
+      }
